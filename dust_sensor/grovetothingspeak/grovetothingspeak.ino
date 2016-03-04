@@ -3,10 +3,10 @@ Thingspeak
 Cange SSID and PASSWORD and ThingSpeakKEY
 */
 
-#define SSID "***REMOVED***"
-#define PASSWORD "***REMOVED***"
+#define SSID ""
+#define PASSWORD ""
 
-#define ThingSpeakKEY "***REMOVED***"
+#define ThingSpeakKEY ""
 
 #define LED_WLAN 13
 
