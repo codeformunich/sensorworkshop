@@ -18,4 +18,4 @@ It's also possible to communicate a scale of values on to a digital input. To do
 
 To make attaching sensors easier there are some systems which provide pluggable connections to mostly avoid needing to know what single connections ("pins") on the Arduino board are doing and what voltages are being used. One such system is Grove. Whether you want to use such a system or not, you still might end up having to use one or reverse-engineer it if the sensor you want is made by a provider of such a system. This is the case for the particulate matter sensor which we are using today from Grove. The other sensors are simpler and we need to be careful which pins we attach to which.
 
-
+http://blog.sengotta.net/signierter-mac-os-treiber-fuer-winchiphead-ch340-seriell-wandler/
